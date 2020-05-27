@@ -13,14 +13,25 @@ Here's a list of all topics in the program:
 3: Estimation of Population Means 
 
 4: Two-tailed T-test of Sample means assuming Equal Variance 
+
 5: Two-tailed T-test of Sample means assuming Unequal Variance 
+
 6: Two-tailed T-test of Sample means using Matched Pair Design 
+
 7: Chi-Squared 
+
 8: Poisson Distribution 
+
 9: Simple Linear Regression 
+
 10: Multiple Liner Regression 
+
 11: Simple Logistics Regression 
+
 12: Multiple Logistics Regression 
+
 13: Estimation of Values 
+
 14: Backwards Stepwise Regression 
+
 15: Wilcoxon Rank-Sum
