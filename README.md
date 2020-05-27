@@ -6,18 +6,18 @@ I've been using this over the last month and I've found it very beneficial to my
 
 Here's a list of all topics in the program:
 
-1: Two-Tailed T-test of Correlation Significance
-2: Discrete Binomial Probability
-3: Estimation of Population Means
-4: Two-tailed T-test of Sample means assuming Equal Variance
-5: Two-tailed T-test of Sample means assuming Unequal Variance
-6: Two-tailed T-test of Sample means using Matched Pair Design
-7: Chi-Squared
-8: Poisson Distribution
-9: Simple Linear Regression
-10: Multiple Liner Regression
-11: Simple Logistics Regression
-12: Multiple Logistics Regression
-13: Estimation of Values
-14: Backwards Stepwise Regression
+1: Two-Tailed T-test of Correlation Significance 
+2: Discrete Binomial Probability 
+3: Estimation of Population Means 
+4: Two-tailed T-test of Sample means assuming Equal Variance 
+5: Two-tailed T-test of Sample means assuming Unequal Variance 
+6: Two-tailed T-test of Sample means using Matched Pair Design 
+7: Chi-Squared 
+8: Poisson Distribution 
+9: Simple Linear Regression 
+10: Multiple Liner Regression 
+11: Simple Logistics Regression 
+12: Multiple Logistics Regression 
+13: Estimation of Values 
+14: Backwards Stepwise Regression 
 15: Wilcoxon Rank-Sum
