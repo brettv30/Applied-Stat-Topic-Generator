@@ -4,7 +4,7 @@ Here's a small program I created that has a dictionary of all topics I studied t
 
 I've been using this over the last month and I've found it very beneficial to my learning of different Applied Statistics topics. Hopefully it can help others master these topics as well!
 
-Here's a list of all topics in the program:
+List of all topics in the program:
 
 1: Two-Tailed T-test of Correlation Significance 
 
@@ -24,7 +24,7 @@ Here's a list of all topics in the program:
 
 9: Simple Linear Regression 
 
-10: Multiple Liner Regression 
+10: Multiple Linear Regression 
 
 11: Simple Logistics Regression 
 
