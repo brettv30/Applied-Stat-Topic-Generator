@@ -1,4 +1,4 @@
-# Random-Applied-Stats-Topic-Generator
+# Applied-Stat-Topic-Generator
 
 Here's a small python program I created that has a dictionary of all topics I studied in my Applied Statistics course. In order to keep my stats skills polished, I decided to create a program that would give out a different topic each time the program is ran. Once a topic is received, the user must go out and find a problem related to the topic, then solve that problem and check it against a given solution. 
 
